@@ -120,58 +120,35 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Honorable Mention - Hack4SDG",
+      company_name: "AIESEC, IIT Hyderabad",
+      icon: funLearn, // Replace with an appropriate icon
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "October 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Recognized for developing an AI-powered educational platform that redefines the learning experience.",
+        "Created an interactive prototype allowing students to select characters with distinct voices to guide lessons.",
+        "Integrated AI for personalization, gamification, and engagement to make learning conversational and impactful.",
+        "Stood out for creativity and focus on enhancing student-centric education."
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "2nd Place - EdTech Domain",
+      company_name: "Datanyx Hackathon, AWS Cloud Club MJCET & IEEE SMC MJCET",
+      icon: foodMonito, // Replace with an appropriate icon
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "November 23-24, 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed FoodSense App, an innovative 'Food Ingredient Analysis and Health Awareness System'.",
+        "Featured Daily Nutrient Progress Tracking to monitor users' intake.",
+        "Integrated a Random Forest model for Food Alternative Prediction in Next.js to suggest healthier substitutes.",
+        "Implemented Personalized Diet Recommendations using a CatBoost model for better nutrition awareness."
       ],
     },
   ];
+  
+
+  
   
   const testimonials = [
     {
