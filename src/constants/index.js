@@ -55,7 +55,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Nextjs Developer",
       icon: creator,
     },
   ];
